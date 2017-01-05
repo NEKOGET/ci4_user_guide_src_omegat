@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>#######################
+CodeIgniter4 User Guide
+#######################</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170104T041600Z" creationid="NEKOGET" creationdate="20170104T041600Z">
+        <seg>#######################
+CodeIgniter4 ユーザーガイド
+#######################</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>#######################
+Welcome to CodeIgniter4
+#######################</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170105T085733Z" creationid="NEKOGET" creationdate="20170105T085733Z">
+        <seg>#######################
+CodeIgniter4へようこそ
+#######################</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>#########################
+Generating the User Guide
+#########################</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170104T070832Z" creationid="NEKOGET" creationdate="20170104T070832Z">
+        <seg>#########################
+Generating the ユーザーガイド
+#########################</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>*******
+Welcome
+*******</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170104T145444Z" creationid="NEKOGET" creationdate="20170104T145444Z">
+        <seg>*******
+ようこそ
+*******</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>********
+Tutorial
+********</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170104T145525Z" creationid="NEKOGET" creationdate="20170104T145525Z">
+        <seg>********
+チュートリアル
+********</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>************
+Installation
+************</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170104T053547Z" creationid="NEKOGET" creationdate="20170104T053547Z">
+        <seg>************
+インストール
+************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**************
+General Topics
+**************</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170104T145634Z" creationid="NEKOGET" creationdate="20170104T145634Z">
+        <seg>**************
+一般的なトピック
+**************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>****************
+Helper Reference
+****************</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170104T041719Z" creationid="NEKOGET" creationdate="20170104T041719Z">
+        <seg>****************
+ヘルパー リファレンス
+****************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>*****************
+Library Reference
+*****************</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170104T145649Z" creationid="NEKOGET" creationdate="20170104T145649Z">
+        <seg>*****************
+ライブラリ リファレンス
+*****************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>******************
+Database Reference
+******************</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170104T041654Z" creationid="NEKOGET" creationdate="20170104T041654Z">
+        <seg>******************
+データーベースリファレンス
+******************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>*********************
+CodeIgniter4 Overview
+*********************
+..</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170104T145556Z" creationid="NEKOGET" creationdate="20170104T145556Z">
+        <seg>*********************
+CodeIgniter4 の概要
+*********************
+..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>***********************
+Who is CodeIgniter For?</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170105T090037Z" creationid="NEKOGET" creationdate="20170105T090037Z">
+        <seg>***********************
+CodeIgniterは、誰のためにありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>***************************
+Contributing to CodeIgniter
+***************************</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170104T041729Z" creationid="NEKOGET" creationdate="20170104T041729Z">
+        <seg>***************************
+CodeIgniterへの貢献
+***************************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>-  You are not interested in large-scale monolithic libraries like PEAR.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170105T140134Z" creationid="NEKOGET" creationdate="20170105T140134Z">
+        <seg>-  PEARのような大規模なモノリシックライブラリに興味がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>-  You eschew complexity, favoring simple solutions.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170105T140344Z" creationid="NEKOGET" creationdate="20170105T140209Z">
+        <seg>-  複雑さを嫌い、シンプルな解決法が好きです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>-  You need clear, thorough documentation.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170105T135412Z" creationid="NEKOGET" creationdate="20170105T135412Z">
+        <seg>-  はっきりした、完璧なドキュメントが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>-  You need exceptional performance.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170105T134658Z" creationid="NEKOGET" creationdate="20170105T134447Z">
+        <seg>-  優れた性能が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>-  You want a framework that requires nearly zero configuration.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170105T134639Z" creationid="NEKOGET" creationdate="20170105T134639Z">
+        <seg>-  ほぼゼロ構成で動くフレームワークが欲しいです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>-  You want a framework with a small footprint.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170105T134509Z" creationid="NEKOGET" creationdate="20170105T134217Z">
+        <seg>-  小さくて軽快なフレームワークを探しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>- :doc:`License Agreement &lt;license&gt;`
+- :doc:`Change Log &lt;changelog&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170104T053409Z" creationid="NEKOGET" creationdate="20170104T053304Z">
+        <seg>- :doc:`ライセンス契約  &lt;license&gt;`
+- :doc:`変更履歴 &lt;changelog&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>CodeIgniter is an Application Development Framework - a toolkit - for
+people who build web sites using PHP.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170105T135457Z" creationid="NEKOGET" creationdate="20170105T135457Z">
+        <seg>CodeIgniterはPHPを使用してWebサイトを構築する人のための、
+アプリケーション開発フレームワークです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>CodeIgniter is right for you if:</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170105T090256Z" creationid="NEKOGET" creationdate="20170105T090232Z">
+        <seg>次の場合、CodeIgniterはあなたに向いています:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>CodeIgniter lets you creatively focus on your project
+by minimizing the amount of code needed for a given task.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170105T135736Z" creationid="NEKOGET" creationdate="20170105T135736Z">
+        <seg>CodeIgniterは、あなたがクリエイティブなタスクのため必要となるコードの量を最小限にすることによって、
+あなたのプロジェクトに集中することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Install the CI Lexer which allows PHP, HTML, CSS, and JavaScript syntax highlighting in code examples (see *cilexer/README*)
+5.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170104T073557Z" creationid="NEKOGET" creationdate="20170104T073557Z">
+        <seg>CI Lexerをインストールすると PHP, HTML, CSS, と JavaScript を使った例文に対してシンタックスハイライトを使用することができます。 ( *cilexer/README* を参照)
+5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The framework can have core parts easily extended
+or completely replaced to make the system work the way you need it to.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="NEKOGET" changedate="20170105T135944Z" creationid="NEKOGET" creationdate="20170105T135932Z">
+        <seg>フレームワークは、コアの部分を簡単に拡張したり、
+必要とする機能のために差し替えることができます。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

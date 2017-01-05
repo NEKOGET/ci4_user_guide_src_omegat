@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>######################
+CodeIgniter User Guide
+######################</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T054105Z" creationid="NEKOGET" creationdate="20170104T054105Z">
+        <seg>######################
+CodeIgniter ユーザーガイド
+######################</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#######################
+CodeIgniter4 User Guide
+#######################</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T041600Z" creationid="NEKOGET" creationdate="20170104T041600Z">
+        <seg>#######################
+CodeIgniter4 ユーザーガイド
+#######################</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>************
+Installation
+************</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T053547Z" creationid="NEKOGET" creationdate="20170104T053547Z">
+        <seg>************
+インストール
+************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>****************
+Helper Reference
+****************</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T041719Z" creationid="NEKOGET" creationdate="20170104T041719Z">
+        <seg>****************
+ヘルパー リファレンス
+****************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>******************
+Database Reference
+******************</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T041654Z" creationid="NEKOGET" creationdate="20170104T041654Z">
+        <seg>******************
+データーベースリファレンス
+******************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>******************
+Setup Instructions
+******************</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T054334Z" creationid="NEKOGET" creationdate="20170104T054334Z">
+        <seg>******************
+セットアップ手順
+******************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>***************************
+Contributing to CodeIgniter
+***************************</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T041729Z" creationid="NEKOGET" creationdate="20170104T041729Z">
+        <seg>***************************
+CodeIgniterへの貢献
+***************************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- :doc:`License Agreement &lt;license&gt;`
+- :doc:`Change Log &lt;changelog&gt;`</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T053409Z" creationid="NEKOGET" creationdate="20170104T053304Z">
+        <seg>- :doc:`ライセンス契約  &lt;license&gt;`
+- :doc:`変更履歴 &lt;changelog&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you're not on 2.7+, go ahead and install 2.7.2 from
+http://python.org/download/releases/2.7.2/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T055928Z" creationid="NEKOGET" creationdate="20170104T055928Z">
+        <seg>あなたが2.7以上でないなら、次のURLから2.7.2をインストールしてください
+http://python.org/download/releases/2.7.2/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation
+============</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T055951Z" creationid="NEKOGET" creationdate="20170104T055951Z">
+        <seg>インストール
+============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should load up and tell you which version you have
+installed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T055835Z" creationid="NEKOGET" creationdate="20170104T055835Z">
+        <seg>ロードし、
+インストールしたバージョンを教えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pages are written in human-readable
+`ReStructured Text &lt;http://sphinx.pocoo.org/rest.html&gt;`_ format.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T054718Z" creationid="NEKOGET" creationdate="20170104T054718Z">
+        <seg>ページは人間が読めるように
+`ReStructured Text &lt;http://sphinx.pocoo.org/rest.html&gt;`_ 形式で書かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisites
+=============</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T055100Z" creationid="NEKOGET" creationdate="20170104T055100Z">
+        <seg>前提条件
+=============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sphinx requires Python, which is already installed if you are running OS X.
+You can confirm in a Terminal window by executing the ``python`` command
+without any parameters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T055648Z" creationid="NEKOGET" creationdate="20170104T055347Z">
+        <seg>SphinxにはPythonが必要です。PythonはOS Xを利用している場合にはすでにインストールされています。
+``python`` コマンドをパラメータなしで実行すると、
+ターミナルで確認できます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The CodeIgniter user guide uses Sphinx to manage the documentation and
+output it to various formats.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T054413Z" creationid="NEKOGET" creationdate="20170104T054413Z">
+        <seg>CodeIgniterユーザガイドでは、Sphinxを使用して
+さまざまな形式のドキュメントとして出力します。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

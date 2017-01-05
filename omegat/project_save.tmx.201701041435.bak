@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#######################
+CodeIgniter4 User Guide
+#######################</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T041600Z" creationid="NEKOGET" creationdate="20170104T041600Z">
+        <seg>#######################
+CodeIgniter4 ユーザーガイド
+#######################</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>************
+Installation
+************</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T053547Z" creationid="NEKOGET" creationdate="20170104T053547Z">
+        <seg>************
+インストール
+************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>****************
+Helper Reference
+****************</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T041719Z" creationid="NEKOGET" creationdate="20170104T041719Z">
+        <seg>****************
+ヘルパー リファレンス
+****************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>******************
+Database Reference
+******************</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T041654Z" creationid="NEKOGET" creationdate="20170104T041654Z">
+        <seg>******************
+データーベースリファレンス
+******************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>***************************
+Contributing to CodeIgniter
+***************************</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T041729Z" creationid="NEKOGET" creationdate="20170104T041729Z">
+        <seg>***************************
+CodeIgniterへの貢献
+***************************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- :doc:`License Agreement &lt;license&gt;`
+- :doc:`Change Log &lt;changelog&gt;`</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T053409Z" creationid="NEKOGET" creationdate="20170104T053304Z">
+        <seg>- :doc:`ライセンス契約  &lt;license&gt;`
+- :doc:`変更履歴 &lt;changelog&gt;`</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

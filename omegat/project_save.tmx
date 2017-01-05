@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>######################
+CodeIgniter User Guide
+######################</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T054105Z" creationid="NEKOGET" creationdate="20170104T054105Z">
+        <seg>######################
+CodeIgniter ユーザーガイド
+######################</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#######################
+CodeIgniter4 User Guide
+#######################</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T041600Z" creationid="NEKOGET" creationdate="20170104T041600Z">
+        <seg>#######################
+CodeIgniter4 ユーザーガイド
+#######################</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#######################
+Welcome to CodeIgniter4
+#######################</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170105T085733Z" creationid="NEKOGET" creationdate="20170105T085733Z">
+        <seg>#######################
+CodeIgniter4へようこそ
+#######################</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#########################
+Generating the User Guide
+#########################</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T070832Z" creationid="NEKOGET" creationdate="20170104T070832Z">
+        <seg>#########################
+Generating the ユーザーガイド
+#########################</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*******
+Welcome
+*******</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T145444Z" creationid="NEKOGET" creationdate="20170104T145444Z">
+        <seg>*******
+ようこそ
+*******</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>********
+Tutorial
+********</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T145525Z" creationid="NEKOGET" creationdate="20170104T145525Z">
+        <seg>********
+チュートリアル
+********</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>************
+Installation
+************</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T053547Z" creationid="NEKOGET" creationdate="20170104T053547Z">
+        <seg>************
+インストール
+************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**************
+General Topics
+**************</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T145634Z" creationid="NEKOGET" creationdate="20170104T145634Z">
+        <seg>**************
+一般的なトピック
+**************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>***************
+Style Guideline
+***************</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T072906Z" creationid="NEKOGET" creationdate="20170104T072906Z">
+        <seg>***************
+スタイルガイドライン
+***************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>****************
+Helper Reference
+****************</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T041719Z" creationid="NEKOGET" creationdate="20170104T041719Z">
+        <seg>****************
+ヘルパー リファレンス
+****************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*****************
+Library Reference
+*****************</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T145649Z" creationid="NEKOGET" creationdate="20170104T145649Z">
+        <seg>*****************
+ライブラリ リファレンス
+*****************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>******************
+Database Reference
+******************</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T041654Z" creationid="NEKOGET" creationdate="20170104T041654Z">
+        <seg>******************
+データーベースリファレンス
+******************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>******************
+Setup Instructions
+******************</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T054334Z" creationid="NEKOGET" creationdate="20170104T054334Z">
+        <seg>******************
+セットアップ手順
+******************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*********************
+CodeIgniter4 Overview
+*********************
+..</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T145556Z" creationid="NEKOGET" creationdate="20170104T145556Z">
+        <seg>*********************
+CodeIgniter4 の概要
+*********************
+..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>***********************
+Who is CodeIgniter For?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170105T090037Z" creationid="NEKOGET" creationdate="20170105T090037Z">
+        <seg>***********************
+CodeIgniterは、誰のためにありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>***************************
+Contributing to CodeIgniter
+***************************</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T041729Z" creationid="NEKOGET" creationdate="20170104T041729Z">
+        <seg>***************************
+CodeIgniterへの貢献
+***************************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-  You are not interested in large-scale monolithic libraries like PEAR.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170105T140134Z" creationid="NEKOGET" creationdate="20170105T140134Z">
+        <seg>-  PEARのような大規模なモノリシックライブラリに興味がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-  You eschew complexity, favoring simple solutions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170105T140344Z" creationid="NEKOGET" creationdate="20170105T140209Z">
+        <seg>-  複雑さを嫌い、シンプルな解決法が好きです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-  You need clear, thorough documentation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170105T135412Z" creationid="NEKOGET" creationdate="20170105T135412Z">
+        <seg>-  はっきりした、完璧なドキュメントが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-  You need exceptional performance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170105T134658Z" creationid="NEKOGET" creationdate="20170105T134447Z">
+        <seg>-  優れた性能が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-  You want a framework that requires nearly zero configuration.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170105T134639Z" creationid="NEKOGET" creationdate="20170105T134639Z">
+        <seg>-  ほぼゼロ構成で動くフレームワークが欲しいです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-  You want a framework with a small footprint.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170105T134509Z" creationid="NEKOGET" creationdate="20170105T134217Z">
+        <seg>-  小さくて軽快なフレームワークを探しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- :doc:`License Agreement &lt;license&gt;`
+- :doc:`Change Log &lt;changelog&gt;`</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T053409Z" creationid="NEKOGET" creationdate="20170104T053304Z">
+        <seg>- :doc:`ライセンス契約  &lt;license&gt;`
+- :doc:`変更履歴 &lt;changelog&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After the HTML has been built,
+each successive build will only rebuild files that have changed, saving
+considerable time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T072659Z" creationid="NEKOGET" creationdate="20170104T072452Z">
+        <seg>HTMLがビルドされると
+変更されたファイルのみを再構築し
+かなりの時間を節約します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All of the source files exist under *source/* and is where you will add new
+documentation or modify existing documentation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T063535Z" creationid="NEKOGET" creationdate="20170104T063453Z">
+        <seg>すべてのソースファイルは *source/* 以下にあります。 新しいドキュメントを追加したり
+既存のドキュメントの変更修正をする場所です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CodeIgniter is an Application Development Framework - a toolkit - for
+people who build web sites using PHP.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170105T135457Z" creationid="NEKOGET" creationdate="20170105T135457Z">
+        <seg>CodeIgniterはPHPを使用してWebサイトを構築する人のための、
+アプリケーション開発フレームワークです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CodeIgniter is right for you if:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170105T090256Z" creationid="NEKOGET" creationdate="20170105T090232Z">
+        <seg>次の場合、CodeIgniterはあなたに向いています:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CodeIgniter lets you creatively focus on your project
+by minimizing the amount of code needed for a given task.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170105T135736Z" creationid="NEKOGET" creationdate="20170105T135736Z">
+        <seg>CodeIgniterは、あなたがクリエイティブなタスクのため必要となるコードの量を最小限にすることによって、
+あなたのプロジェクトに集中することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing and Creating Documentation
+==================================</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T063350Z" creationid="NEKOGET" creationdate="20170104T063350Z">
+        <seg>ドキュメントの編集と作成
+==================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From the root directory of your user guide repo
+fork issue the command you used at the end of the installation instructions::</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T072040Z" creationid="NEKOGET" creationdate="20170104T072031Z">
+        <seg>あなたのユーザガイドのルートディレクトリで
+インストール手順の最後に使用したコマンドを実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generating
+the HTML is very simple.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T072847Z" creationid="NEKOGET" creationdate="20170104T071905Z">
+        <seg>HTMLをビルドすることは
+とても簡単です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTMLドキュメントは、ユーザがまず目にするドキュメントであり、
+私たちが最も気になるところです。Since revisions to the built
+files are not of value, they are not under source control.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T071510Z" creationid="NEKOGET" creationdate="20170104T071510Z">
+        <seg>HTMLドキュメントは読点ユーザがまず目にするドキュメントであり、
+私たちが最も気になるところですが
+ビルドファイルの履歴には価値がないためソース管理されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If for any reason you want to "reset" your build files,
+simply delete the *build* folder's contents and rebuild.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T072824Z" creationid="NEKOGET" creationdate="20170104T072824Z">
+        <seg>何らかの理由でビルドファイルを "リセット" したい場合は
+ *build* ディレクトリの中身を削除して再度ビルドしてください。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you're not on 2.7+, go ahead and install 2.7.2 from
+http://python.org/download/releases/2.7.2/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T055928Z" creationid="NEKOGET" creationdate="20170104T055928Z">
+        <seg>あなたが2.7以上でないなら、次のURLから2.7.2をインストールしてください
+http://python.org/download/releases/2.7.2/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install `easy_install &lt;http://peak.telecommunity.com/DevCenter/EasyInstall#installing-easy-install&gt;`_
+2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T063229Z" creationid="NEKOGET" creationdate="20170104T063229Z">
+        <seg>`easy_install &lt;http://peak.telecommunity.com/DevCenter/EasyInstall#installing-easy-install&gt;`_ をインストール
+2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install the CI Lexer which allows PHP, HTML, CSS, and JavaScript syntax highlighting in code examples (see *cilexer/README*)
+5.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T073557Z" creationid="NEKOGET" creationdate="20170104T073557Z">
+        <seg>CI Lexerをインストールすると PHP, HTML, CSS, と JavaScript を使った例文に対してシンタックスハイライトを使用することができます。 ( *cilexer/README* を参照)
+5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation
+============</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T055951Z" creationid="NEKOGET" creationdate="20170104T055951Z">
+        <seg>インストール
+============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should load up and tell you which version you have
+installed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T055835Z" creationid="NEKOGET" creationdate="20170104T055835Z">
+        <seg>ロードし、
+インストールしたバージョンを教えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just as with code changes,
+we recommend working from feature branches and making pull requests to
+the *develop* branch of this repo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T063707Z" creationid="NEKOGET" creationdate="20170104T063707Z">
+        <seg>コードの変更と同様に、
+feature ブランチから作業し、
+ このレポジトリの *develop* ブランチにプルリクエストを行うことをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Obviously, the HTML documentation is what we care most about, as it is the
+primary documentation that our users encounter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T064231Z" creationid="NEKOGET" creationdate="20170104T064231Z">
+        <seg>HTMLドキュメントは、ユーザがまず目にするドキュメントであり、
+私たちが最も気になるところです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pages are written in human-readable
+`ReStructured Text &lt;http://sphinx.pocoo.org/rest.html&gt;`_ format.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T054718Z" creationid="NEKOGET" creationdate="20170104T054718Z">
+        <seg>ページは人間が読めるように
+`ReStructured Text &lt;http://sphinx.pocoo.org/rest.html&gt;`_ 形式で書かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please refer to source/documentation/index.rst for general guidelines for
+using Sphinx to document CodeIgniter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T072956Z" creationid="NEKOGET" creationdate="20170104T072956Z">
+        <seg>Sphinxを使用してCodeIgniterを文書化する際の一般的なガイドラインについては
+source/documentation/index.rst を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisites
+=============</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T055100Z" creationid="NEKOGET" creationdate="20170104T055100Z">
+        <seg>前提条件
+=============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So where's the HTML?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T063742Z" creationid="NEKOGET" creationdate="20170104T063742Z">
+        <seg>HTMLはどこにあるの？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sphinx requires Python, which is already installed if you are running OS X.
+You can confirm in a Terminal window by executing the ``python`` command
+without any parameters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T055648Z" creationid="NEKOGET" creationdate="20170104T055347Z">
+        <seg>SphinxにはPythonが必要です。PythonはOS Xを利用している場合にはすでにインストールされています。
+``python`` コマンドをパラメータなしで実行すると、
+ターミナルで確認できます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The CodeIgniter user guide uses Sphinx to manage the documentation and
+output it to various formats.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T054413Z" creationid="NEKOGET" creationdate="20170104T054413Z">
+        <seg>CodeIgniterユーザガイドでは、Sphinxを使用して
+さまざまな形式のドキュメントとして出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The framework can have core parts easily extended
+or completely replaced to make the system work the way you need it to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170105T135944Z" creationid="NEKOGET" creationdate="20170105T135932Z">
+        <seg>フレームワークは、コアの部分を簡単に拡張したり、
+必要とする機能のために差し替えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This also allows
+you to regenerate as necessary if you want to "preview" your work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T072832Z" creationid="NEKOGET" creationdate="20170104T071514Z">
+        <seg>そのため
+それらを表示をしたい場合にはソースコードからビルドします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will see it do a whiz-bang compilation, at which point the fully rendered
+user guide and images will be in *build/html/*.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170104T072500Z" creationid="NEKOGET" creationdate="20170104T072428Z">
+        <seg>素晴らしく完璧にレンダリングされたユーザーガイドとその画像は
+*build/html/* の中に保存されます。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

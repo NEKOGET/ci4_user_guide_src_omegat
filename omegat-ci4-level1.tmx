@@ -6,6 +6,30 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>##########
+Change Log
+##########</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170119T115754Z" creationid="NEKOGET" creationdate="20170119T115754Z">
+        <seg>##########
+変更履歴
+##########</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#################
+Autoloading Files
+#################</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170119T120304Z" creationid="NEKOGET" creationdate="20170119T120304Z">
+        <seg>#################
+ファイルのオートロード
+#################</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#######################
 CodeIgniter4 User Guide
 #######################</seg>
@@ -162,6 +186,14 @@ CodeIgniterへの貢献
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Rewrite of the CodeIgniter framework**</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170119T115832Z" creationid="NEKOGET" creationdate="20170119T115832Z">
+        <seg>**CodeIgniterフレームワークのリライト**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-  You are not interested in large-scale monolithic libraries like PEAR.</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170105T140134Z" creationid="NEKOGET" creationdate="20170105T140134Z">
@@ -220,6 +252,40 @@ CodeIgniterへの貢献
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>=====================
+CodeIgniter4 Roadmap
+=====================</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T090343Z" creationid="NEKOGET" creationdate="20170126T090343Z">
+        <seg>=====================
+CodeIgniter4 ロードマップ
+=====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because they're all registered through
+`spl_autoload_register &lt;http://php.net/manual/en/function.spl-autoload-register.php&gt;`_,
+they work in sequence and don't get in each other's way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170124T081637Z" creationid="NEKOGET" creationdate="20170124T081637Z">
+        <seg>それらがすべては
+`spl_autoload_register &lt;http://php.net/manual/en/function.spl-autoload-register.php&gt;`_,
+を通じて登録されるので、それぞれがお互いを邪魔するといったことはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Classmap
+========</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170124T082222Z" creationid="NEKOGET" creationdate="20170124T082222Z">
+        <seg>クラスマップ
+========</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CodeIgniter is an Application Development Framework - a toolkit - for
 people who build web sites using PHP.</seg>
       </tuv>
@@ -248,6 +314,68 @@ by minimizing the amount of code needed for a given task.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CodeIgniter provides a very flexible autoloader that can be used with very little configuration.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170119T123531Z" creationid="NEKOGET" creationdate="20170119T123531Z">
+        <seg>CodeIgniterは非常に柔軟なオートローダを提供し、とても小さな構成で使用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configuration
+=============</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170124T081924Z" creationid="NEKOGET" creationdate="20170124T081924Z">
+        <seg>設定
+=============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every application consists of a large number of classes in many different locations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170119T120407Z" creationid="NEKOGET" creationdate="20170119T120407Z">
+        <seg>すべてのアプリケーションは、さまざまな場所にたくさんのクラスで構成されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For performance improvement, the core CodeIgniter components have been added to the classmap.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170119T124010Z" creationid="NEKOGET" creationdate="20170119T124010Z">
+        <seg>性能向上のためにCodeIgniterのコアコンポーネントはクラスマップに追加されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you use double-quotes
+to define the array, be sure to escape the backwards slash.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T090025Z" creationid="NEKOGET" creationdate="20170126T090025Z">
+        <seg>Iもしあなたがダブルクォートを使用する場合は
+バックスラッシュをエスケープするようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In short, CodeIgniter is the malleable framework that tries to provide
+the tools you need while staying out of the way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170119T114400Z" creationid="NEKOGET" creationdate="20170119T114006Z">
+        <seg>つまりCodeIgniterは
+あなたに必要なツールを提供する邪魔にならないフレームなのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initial configuration is done in **/application/Config/Autoload.php**.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170124T081948Z" creationid="NEKOGET" creationdate="20170124T081948Z">
+        <seg>初期設定は **/application/Config/Autoload.php** で行われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Install the CI Lexer which allows PHP, HTML, CSS, and JavaScript syntax highlighting in code examples (see *cilexer/README*)
 5.</seg>
       </tuv>
@@ -258,12 +386,224 @@ by minimizing the amount of code needed for a given task.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can locate individual non-namespaced classes, namespaced classes that adhere to 
+`PSR4 &lt;http://www.php-fig.org/psr/psr-4/&gt;`_ autoloading
+directory structures, and will even attempt to locate classes in common directories (like Controllers,
+Models, etc).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170119T123935Z" creationid="NEKOGET" creationdate="20170119T123935Z">
+        <seg>これは名前空間があるもの、ないものについて
+`PSR4 &lt;http://www.php-fig.org/psr/psr-4/&gt;`_ のオートロードのディレクトリ構造で、
+そして (コントローラ、モデルなど）共通ディレクトリ内の
+クラスを探します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Its goal is to enable you to
+develop projects much faster than you could if you were writing code
+from scratch, by providing a rich set of libraries for commonly needed
+tasks, as well as a simple interface and logical structure to access
+these libraries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170105T141740Z" creationid="NEKOGET" creationdate="20170105T141654Z">
+        <seg>その目標は、
+一般的に必要なライブラリが豊富だということだけではなくて
+ライブラリにアクセスするためのシンプルなインターフェイスと論理構造を提供し
+スクラッチからコードを書くよりもはるかに速く
+開発できるようにすることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keeping track of where every single file is, and
+hard-coding that location into your files in a series of ``requires()`` is a massive
+headache and very error-prone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170119T123402Z" creationid="NEKOGET" creationdate="20170119T123402Z">
+        <seg>すべてのファイルを使うために、すべてを
+都度 ``requires()`` と、ハードコーディングすることは、エラーも発生しやすく、
+頭の痛い作業です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Legacy Support
+==============</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170124T082242Z" creationid="NEKOGET" creationdate="20170124T082242Z">
+        <seg>レガシーサポート
+==============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Namespaces
+==========</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170124T082213Z" creationid="NEKOGET" creationdate="20170124T082213Z">
+        <seg>名前空間
+==========</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Release Date: Not Released</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170119T115904Z" creationid="NEKOGET" creationdate="20170119T115904Z">
+        <seg>リリース日時: リリースされていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That's where autoloaders come in.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170119T123437Z" creationid="NEKOGET" creationdate="20170119T123437Z">
+        <seg>そこで、オートローダの出番です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ``psr4`` array in the configuration file allows you to map the namespace to the directory
+those classes can be found in::</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170124T083020Z" creationid="NEKOGET" creationdate="20170124T083020Z">
+        <seg>設定ファイルの中の ``psr4`` 配列を利用すると、それらのクラスを見つけることができるディレクトリに対して
+名前空間をマッピングすることができます::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The autoloader is always active, being registered with ``spl_autoload_register()`` at the
+beginning of the framework's execution.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170124T081909Z" creationid="NEKOGET" creationdate="20170124T081909Z">
+        <seg>オートローダーはフレームワークの実行開始時に ``spl_autoload_register()``  に登録され
+常にアクティブです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The autoloader works great by itself, but can also work with other autoloaders, like
+`Composer &lt;https://getcomposer.org&gt;`_, or even your own custom autoloaders, if needed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170119T124256Z" creationid="NEKOGET" creationdate="20170119T124118Z">
+        <seg>オートローダはそれだけでも機能しますが、必要に応じて他のオートローダや
+`Composer &lt;https://getcomposer.org&gt;`_ や独自のカスタムオートローダを使用することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The framework can have core parts easily extended
 or completely replaced to make the system work the way you need it to.</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170105T135944Z" creationid="NEKOGET" creationdate="20170105T135932Z">
         <seg>フレームワークは、コアの部分を簡単に拡張したり、
 必要とする機能のために差し替えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The framework provides classes for core functionality.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170119T121432Z" creationid="NEKOGET" creationdate="20170119T121432Z">
+        <seg>このフレームワークは、コア機能の提供するクラスを提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The key of each row is the namespace itself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170124T083102Z" creationid="NEKOGET" creationdate="20170124T083102Z">
+        <seg>各行の配列のキーは名前空間そのものを表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The recommended method for organizing your classes is to create one or more namespaces for your
+application's files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170124T082638Z" creationid="NEKOGET" creationdate="20170124T082638Z">
+        <seg>クラスを整理するために、アプリケーションのファイルのために1つもしくは複数の
+名前空間を作成することをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The roadmap we are working to was `announced on our forum
+&lt;http://forum.codeigniter.com/thread-62615.html&gt;`_  in August, 2015.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T090525Z" creationid="NEKOGET" creationdate="20170126T090525Z">
+        <seg>私たちが取り組んでいるロードマップは、2005年8月に `フォーラム
+&lt;http://forum.codeigniter.com/thread-62615.html&gt;`_  で発表されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The value is the location to the directory the classes can be found in.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170124T084125Z" creationid="NEKOGET" creationdate="20170124T084125Z">
+        <seg>この値は、クラスを見つかることができるディレクトリの場所です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This does not need a trailing slash.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T085908Z" creationid="NEKOGET" creationdate="20170124T083147Z">
+        <seg>末尾にバックスラッシュは必要ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This file contains two primary
+arrays: one for the classmap, and one for PSR4-compatible namespaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170124T082153Z" creationid="NEKOGET" creationdate="20170124T082153Z">
+        <seg>このファイルには主要な2つの配列が含まれています。
+1つはクラスマップに対して、もう1つはPSR4互換名前空間に対するものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is most important for any business-logic related classes, entity classes,
+etc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170124T082743Z" creationid="NEKOGET" creationdate="20170124T082743Z">
+        <seg>これは、エンティティクラスやビジネスロジックに関連するクラスのために
+最も重要なことです。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where possible, CodeIgniter has been kept as flexible as possible,
+allowing you to work in the way you want, not being forced into working
+any certain way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170119T113830Z" creationid="NEKOGET" creationdate="20170119T113830Z">
+        <seg>CodeIgniterはできる限り柔軟になっています。
+利用方法が特定のルールに
+縛られることはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You might have third-party
+classes that your project is using.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170119T122916Z" creationid="NEKOGET" creationdate="20170119T122826Z">
+        <seg>プロジェクトで利用されている
+サードパーティなクラスも利用しているはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your application will have a
+number of libraries, models, and other entities to make it work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170119T122834Z" creationid="NEKOGET" creationdate="20170119T122644Z">
+        <seg>あなたのアプリケーションは
+動作させるために、ライブラリ、モデル、およびその他多くものを持つことになります。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

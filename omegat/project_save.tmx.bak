@@ -78,6 +78,18 @@ Generating the ユーザーガイド
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>##############################
+CodeIgniter Internals Overview
+##############################</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T122113Z" creationid="NEKOGET" creationdate="20170126T122113Z">
+        <seg>##############################
+CodeIgniter 内部の概要
+##############################</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*******
 Welcome
 *******</seg>
@@ -288,6 +300,78 @@ CodeIgniterへの貢献
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Autoloader
+- Logging
+- Exception Handling
+- HTTP Request/Response
+- Routing
+- Controllers
+- Models
+- Database (MySQL &amp; Postgres)
+- Config
+- Security
+- Views
+- Sessions
+- Basic debugging and profiling</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T114813Z" creationid="NEKOGET" creationdate="20170126T114813Z">
+        <seg>- オートローダー
+- ログ
+- 例外処理
+- HTTP リクエスト/レスポンス
+- ルーティング
+- コントローラー
+- モデル
+- データベース (MySQL と Postgres)
+- 設定
+- セキュリティ
+- ビュー
+- セッション
+- 基本的なデバッグとプロファイリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- FTP
+- XML-RPC
+- Zip
+- Typography
+- Template Parser</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T120321Z" creationid="NEKOGET" creationdate="20170126T120321Z">
+        <seg>- FTP
+- XML-RPC
+- Zip
+- タイポグラフィ
+- テンプレートパーサー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- The helpers
+- Language/Localization features
+- Caching
+- Email
+- Encryption
+- Form Validation
+- Image Library
+- Pagination
+- Uploader</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T115326Z" creationid="NEKOGET" creationdate="20170126T115326Z">
+        <seg>- ヘルパー
+- 言語/ローカライズ機能
+- キャッシュ
+- メール機能
+- 暗号化機能
+- フォームバリデーション
+- イメージライブラリ
+- ページネーション
+- アップローダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>=====================
 CodeIgniter4 Roadmap
 =====================</seg>
@@ -296,6 +380,16 @@ CodeIgniter4 Roadmap
         <seg>=====================
 CodeIgniter4 ロードマップ
 =====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abstractions
+============</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T122302Z" creationid="NEKOGET" creationdate="20170126T122302Z">
+        <seg>抽象化
+============</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,6 +412,24 @@ documentation or modify existing documentation.</seg>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170104T063535Z" creationid="NEKOGET" creationdate="20170104T063453Z">
         <seg>すべてのソースファイルは *source/* 以下にあります。 新しいドキュメントを追加したり
 既存のドキュメントの変更修正をする場所です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As they get implemented and tested, and merged into the framework,
+they will show up in the changelog.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T115931Z" creationid="NEKOGET" creationdate="20170126T115931Z">
+        <seg>実装されテストされて、このフレームワークにマージされたものは、
+変更履歴に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At this point, the framework can be released and need not wait for these libraries to be brought up to date.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T120202Z" creationid="NEKOGET" creationdate="20170126T120202Z">
+        <seg>フェーズ3になった時点で、CodeIgniterはリリースすることが可能な状態です。このフェーズのコードを待つ必要はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -380,12 +492,86 @@ by minimizing the amount of code needed for a given task.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Command-Line Support
+====================</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T122358Z" creationid="NEKOGET" creationdate="20170126T122358Z">
+        <seg>コマンドライン サポート
+====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Completed: June 2016</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T115007Z" creationid="NEKOGET" creationdate="20170126T115007Z">
+        <seg>完了: 2016年6月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configuration
 =============</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170124T081924Z" creationid="NEKOGET" creationdate="20170124T081924Z">
         <seg>設定
 =============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contents will settle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T121655Z" creationid="NEKOGET" creationdate="20170126T121338Z">
+        <seg>いずれ落ち着きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dependencies
+============</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T122254Z" creationid="NEKOGET" creationdate="20170126T122254Z">
+        <seg>依存関係
+============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Developers will undoubtedly create their own as well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T120642Z" creationid="NEKOGET" creationdate="20170126T120642Z">
+        <seg>開発者は間違いなく自分たちのためのアドオンを作ることでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Documentation
+=============</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T122401Z" creationid="NEKOGET" creationdate="20170126T122401Z">
+        <seg>ドキュメント
+=============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During this phase, we will be looking for PRs for the planned and approved
+components, and for bug reports filed as github issues.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T115643Z" creationid="NEKOGET" creationdate="20170126T115643Z">
+        <seg>このフェーズでは、私たちが計画し承認したコンポーネントと
+githubのissueに対してのPRを求めています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each optional package will have its own repository, and will be developed
+and managed independently of the main framework.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T120239Z" creationid="NEKOGET" creationdate="20170126T120239Z">
+        <seg>各オプションパッケージには独自のレポジトリを持つことになります。
+メインのフレームワークとは独立して管理されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -444,6 +630,16 @@ files are not of value, they are not under source control.</seg>
         <seg>HTMLドキュメントは読点ユーザがまず目にするドキュメントであり、
 私たちが最も気になるところですが
 ビルドファイルの履歴には価値がないためソース管理されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Handlers
+--------</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T122349Z" creationid="NEKOGET" creationdate="20170126T122349Z">
+        <seg>ハンドラー
+--------</seg>
       </tuv>
     </tu>
     <tu>
@@ -522,6 +718,16 @@ the tools you need while staying out of the way.</seg>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170104T055951Z" creationid="NEKOGET" creationdate="20170104T055951Z">
         <seg>インストール
 ============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interfaces
+----------</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T122326Z" creationid="NEKOGET" creationdate="20170126T122326Z">
+        <seg>インターフェイズ
+----------</seg>
       </tuv>
     </tu>
     <tu>
@@ -610,6 +816,16 @@ headache and very error-prone.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Namespaces and Files
+====================</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T122316Z" creationid="NEKOGET" creationdate="20170126T122316Z">
+        <seg>名前空間とファイル
+====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Obviously, the HTML documentation is what we care most about, as it is the
 primary documentation that our users encounter.</seg>
       </tuv>
@@ -626,6 +842,60 @@ primary documentation that our users encounter.</seg>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170104T054718Z" creationid="NEKOGET" creationdate="20170104T054718Z">
         <seg>ページは人間が読めるように
 `ReStructured Text &lt;http://sphinx.pocoo.org/rest.html&gt;`_ 形式で書かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phase 1 packages include:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T114623Z" creationid="NEKOGET" creationdate="20170126T114623Z">
+        <seg>フェーズ 1 の機能は次の通りです:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phase 1: Essentials (done)
+==========================</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T113914Z" creationid="NEKOGET" creationdate="20170126T113914Z">
+        <seg>フェーズ 1: エッセンシャル (完了)
+==========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phase 2 packages include:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T115206Z" creationid="NEKOGET" creationdate="20170126T115206Z">
+        <seg>フェーズ2 の機能は次の通りです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phase 2: Core Components (in progress)
+======================================</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T114012Z" creationid="NEKOGET" creationdate="20170126T113950Z">
+        <seg>フェーズ 2: コアコンポーネント (進行中)
+======================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phase 3: Expansion (not started)
+================================</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T114113Z" creationid="NEKOGET" creationdate="20170126T114103Z">
+        <seg>フェーズ 3: 拡張機能 (未着手)
+================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Planned optional packages:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T120302Z" creationid="NEKOGET" creationdate="20170126T120302Z">
+        <seg>オプションパッケージの予定:</seg>
       </tuv>
     </tu>
     <tu>
@@ -658,6 +928,14 @@ source/documentation/index.rst を参照してください。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Results may not be as depicted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T121148Z" creationid="NEKOGET" creationdate="20170126T121148Z">
+        <seg>描いているような結果が出ないかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So where's the HTML?</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170104T063742Z" creationid="NEKOGET" creationdate="20170104T063742Z">
@@ -674,6 +952,22 @@ without any parameters.</seg>
         <seg>SphinxにはPythonが必要です。PythonはOS Xを利用している場合にはすでにインストールされています。
 ``python`` コマンドをパラメータなしで実行すると、
 ターミナルで確認できます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target completion: April 2017</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T120826Z" creationid="NEKOGET" creationdate="20170126T120826Z">
+        <seg>完成目標: 2017年4月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target completion: December 2016</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T115954Z" creationid="NEKOGET" creationdate="20170126T115954Z">
+        <seg>完成目標: 2016年12月</seg>
       </tuv>
     </tu>
     <tu>
@@ -726,6 +1020,14 @@ beginning of the framework's execution.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first phase focused on nailing the essentials in the framework.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T114455Z" creationid="NEKOGET" creationdate="20170126T114455Z">
+        <seg>最初のフェーズではフレームワークの本質に対して集中しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The framework can have core parts easily extended
 or completely replaced to make the system work the way you need it to.</seg>
       </tuv>
@@ -772,10 +1074,36 @@ application's files.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The second phase focuses on providing and refining the existing classes and 
+features that CodeIgniter users know and love.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T115159Z" creationid="NEKOGET" creationdate="20170126T115159Z">
+        <seg>次のフェーズでは、既存クラスのとCodeIgniterユーザーが好むであろう機能について
+洗練することに集中しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The third phase includes fleshing out and working on the optional packages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T120038Z" creationid="NEKOGET" creationdate="20170126T120038Z">
+        <seg>３つ目のフェーズでは、オプション的なパッケージに取り組みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The value is the location to the directory the classes can be found in.</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170124T084125Z" creationid="NEKOGET" creationdate="20170124T084125Z">
         <seg>この値は、クラスを見つかることができるディレクトリの場所です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These optional packages will constitute the "official" addins for CodeIgniter4.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T120419Z" creationid="NEKOGET" creationdate="20170126T120419Z">
+        <seg>オプションパッケージは CodeIgniter4 のための公式なアドオンを構成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -798,6 +1126,16 @@ you to regenerate as necessary if you want to "preview" your work.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This ensures that all of the basic parts needed to make it work are in place 
+and working well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T114534Z" creationid="NEKOGET" creationdate="20170126T114534Z">
+        <seg>動作させるために飛鳥な基本的な部分が適切に配置され、
+うまく機能していることを保証します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This file contains two primary
 arrays: one for the classmap, and one for PSR4-compatible namespaces.</seg>
       </tuv>
@@ -808,12 +1146,52 @@ arrays: one for the classmap, and one for PSR4-compatible namespaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This guide should help contributors understand how the core of the framework works, and what needs to be done
+when creating new functionality.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T122243Z" creationid="NEKOGET" creationdate="20170126T122243Z">
+        <seg>このガイドでは、フレームワークのコアがどのように機能するか。
+新しい機能を作成する際に何が必要なのかを理解するのに役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is most important for any business-logic related classes, entity classes,
 etc.</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170124T082743Z" creationid="NEKOGET" creationdate="20170124T082743Z">
         <seg>これは、エンティティクラスやビジネスロジックに関連するクラスのために
 最も重要なことです。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This phase is complete, and the repository is being opened up for the
+community to help.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T114951Z" creationid="NEKOGET" creationdate="20170126T114951Z">
+        <seg>このフェーズが完了し、レポジトリーは
+コミュニティのために公開されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type hinting
+============</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T122422Z" creationid="NEKOGET" creationdate="20170126T122422Z">
+        <seg>タイプヒンティング
+============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We have not settled
+on the best way to promote/integrate these.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T120808Z" creationid="NEKOGET" creationdate="20170126T120808Z">
+        <seg>私たちは 促進し、統合する
+良い方法について、解決することができていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -856,6 +1234,38 @@ number of libraries, models, and other entities to make it work.</seg>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170119T122834Z" creationid="NEKOGET" creationdate="20170119T122644Z">
         <seg>あなたのアプリケーションは
 動作させるために、ライブラリ、モデル、およびその他多くものを持つことになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your mileage may vary.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T121302Z" creationid="NEKOGET" creationdate="20170126T121302Z">
+        <seg>結果はあなたの思惑とは違うかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>during shipping.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T121707Z" creationid="NEKOGET" creationdate="20170126T121448Z">
+        <seg>開発は進んでいるのですから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>note:: Any target completion dates shown are speculative, and depend</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T121040Z" creationid="NEKOGET" creationdate="20170126T121040Z">
+        <seg>注意::提示した目標完了日は推測にです。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>very much on the quantity and quality of community contributions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170126T121128Z" creationid="NEKOGET" creationdate="20170126T121128Z">
+        <seg>コミュニティの貢献の量と質から、とても大きく影響されます。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

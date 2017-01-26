@@ -1,11 +1,11 @@
-17/01/26 20:32
+17/01/26 21:27
 プロジェクトの翻訳状況
 
             	 分節数	  単語数	文字数（空白を除く）	文字数（空白を含む）	ファイル数	
 合計：         	8384	82743	    501864	    572847	   99	
-未翻訳：        	8320	82120	    497569	    568023	   99	
+未翻訳：        	8279	81780	    495313	    565473	   99	
 繰り返しを除いた：   	7018	80340	    483544	    552861	   99	
-繰り返しを除いた未翻訳：	6959	79722	    479378	    548166	   99	
+繰り返しを除いた未翻訳：	6919	79383	    477149	    545643	   99	
 
 
 ファイルごとの翻訳状況：
@@ -22,10 +22,10 @@ user_guide_src/source/concepts/security.rst            	     72	    72	         
 user_guide_src/source/concepts/services.rst            	     77	    77	         71	            71	    801	   801	        801	           801	          4581	         4581	              4574	                 4574	          5265	         5265	              5258	                 5258	
 user_guide_src/source/concepts/structure.rst           	     37	    37	         36	            36	    577	   577	        577	           577	          3364	         3364	              3362	                 3362	          3920	         3920	              3918	                 3918	
 user_guide_src/source/contributing/documentation.rst   	     47	    47	         40	            40	    314	   314	        307	           307	          2204	         2204	              2145	                 2145	          2458	         2458	              2396	                 2396	
-user_guide_src/source/contributing/guidelines.rst      	     41	    41	         41	            41	    536	   536	        536	           536	          3229	         3229	              3229	                 3229	          3674	         3674	              3674	                 3674	
+user_guide_src/source/contributing/guidelines.rst      	     41	    40	         41	            40	    536	   535	        536	           535	          3229	         3202	              3229	                 3202	          3674	         3647	              3674	                 3647	
 user_guide_src/source/contributing/index.rst           	     43	    43	         42	            42	    446	   446	        446	           446	          2449	         2449	              2447	                 2447	          2835	         2835	              2833	                 2833	
-user_guide_src/source/contributing/internals.rst       	     60	    59	         58	            58	    760	   759	        758	           758	          4410	         4383	              4356	                 4356	          5061	         5034	              5007	                 5007	
-user_guide_src/source/contributing/roadmap.rst         	     34	    32	         33	            31	    344	   323	        344	           323	          2090	         1915	              2088	                 1913	          2392	         2202	              2390	                 2200	
+user_guide_src/source/contributing/internals.rst       	     60	    49	         58	            49	    760	   721	        758	           721	          4410	         3954	              4356	                 3954	          5061	         4578	              5007	                 4578	
+user_guide_src/source/contributing/roadmap.rst         	     34	     2	         33	             1	    344	    22	        344	            22	          2090	          115	              2088	                  113	          2392	          135	              2390	                  133	
 user_guide_src/source/contributing/signing.rst         	     53	    53	         46	            46	    684	   684	        678	           678	          3735	         3735	              3680	                 3680	          4328	         4328	              4270	                 4270	
 user_guide_src/source/contributing/styleguide.rst      	    176	   176	        163	           163	   1369	  1369	       1361	          1361	          8143	         8143	              8079	                 8079	          9417	         9417	              9346	                 9346	
 user_guide_src/source/contributing/workflow.rst        	    109	   109	         96	            96	   1248	  1248	       1218	          1218	          6460	         6460	              6297	                 6297	          7561	         7561	              7376	                 7376	

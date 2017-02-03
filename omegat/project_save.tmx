@@ -30,6 +30,18 @@ Autoloading Files
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#####################
+CodeIgniter4 Overview
+#####################</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170203T073001Z" creationid="NEKOGET" creationdate="20170203T073001Z">
+        <seg>#####################
+CodeIgniter4 概要
+#####################</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>######################
 CodeIgniter User Guide
 ######################</seg>
@@ -1024,6 +1036,14 @@ beginning of the framework's execution.</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170126T114455Z" creationid="NEKOGET" creationdate="20170126T114455Z">
         <seg>最初のフェーズではフレームワークの本質に対して集中しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following pages describe the architectural concepts behind CodeIgniter4:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170203T073128Z" creationid="NEKOGET" creationdate="20170203T073128Z">
+        <seg>次のページではCodeIgniter4の背景になる構造上の概念について説明します。:</seg>
       </tuv>
     </tu>
     <tu>

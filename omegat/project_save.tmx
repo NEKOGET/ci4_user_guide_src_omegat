@@ -844,6 +844,18 @@ Models, etc).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It contains the main **.htaccess** file, **index.php**, and any application 
+assets that you add, like CSS, javascript, or
+images.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170208T083119Z" creationid="NEKOGET" creationdate="20170208T083119Z">
+        <seg>これは **.htaccess** ファイルや, メインとなる**index.php**、
+及びCSS, Javascriopt
+画像を含みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It should load up and tell you which version you have
 installed.</seg>
       </tuv>

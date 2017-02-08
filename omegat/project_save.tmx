@@ -1347,9 +1347,9 @@ any certain way.</seg>
         <seg>While you have a lot of flexibility in how you
 use the application directory, the files in the system directory should never be modified.</seg>
       </tuv>
-      <tuv lang="JA" changeid="NEKOGET" changedate="20170208T082558Z" creationid="NEKOGET" creationdate="20170208T082558Z">
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170208T082628Z" creationid="NEKOGET" creationdate="20170208T082558Z">
         <seg>アプリケーションディレクトリを使用する場合多くの柔軟性を持っていますが、
-システムディレクトリ内のファイルが変更されることはありません。</seg>
+システムディレクトリ内のファイルを変更することはありません。</seg>
       </tuv>
     </tu>
     <tu>

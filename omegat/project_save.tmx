@@ -1302,6 +1302,16 @@ arrays: one for the classmap, and one for PSR4-compatible namespaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This folder is meant to be the "web root" of your site, and your web server
+would be configured to point to it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170208T083322Z" creationid="NEKOGET" creationdate="20170208T083322Z">
+        <seg>このフォルダはサイトの "web ルート" であることを意味し、
+Webサーバをそうなるように設定することになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This guide should help contributors understand how the core of the framework works, and what needs to be done
 when creating new functionality.</seg>
       </tuv>

@@ -848,10 +848,10 @@ Models, etc).</seg>
 assets that you add, like CSS, javascript, or
 images.</seg>
       </tuv>
-      <tuv lang="JA" changeid="NEKOGET" changedate="20170208T083119Z" creationid="NEKOGET" creationdate="20170208T083119Z">
-        <seg>これは **.htaccess** ファイルや, メインとなる**index.php**、
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170208T083205Z" creationid="NEKOGET" creationdate="20170208T083119Z">
+        <seg>これは **.htaccess** ファイル、メインとなる**index.php**、
 及びCSS, Javascriopt
-画像を含みます。</seg>
+画像などの任意のファイルを含みます。</seg>
       </tuv>
     </tu>
     <tu>

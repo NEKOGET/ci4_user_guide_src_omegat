@@ -1088,6 +1088,16 @@ without any parameters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The **public** folder holds the browser-acceible portion of your web application,
+preventing direct access to your source code.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170208T083013Z" creationid="NEKOGET" creationdate="20170208T083013Z">
+        <seg>**public** フォルダは、ソースコードへの直接アクセスを防止し
+ブラウザからアクセス可能なものを格納します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The CodeIgniter user guide uses Sphinx to manage the documentation and
 output it to various formats.</seg>
       </tuv>

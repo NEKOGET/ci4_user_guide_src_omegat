@@ -412,9 +412,9 @@ CodeIgniterへの貢献
 		/Libraries      Useful classes that don't fit in another category
 		/Models         Models work with the database to represent the business entities.</seg>
       </tuv>
-      <tuv lang="JA" changeid="NEKOGET" changedate="20170203T080416Z" creationid="NEKOGET" creationdate="20170203T075417Z">
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170208T083820Z" creationid="NEKOGET" creationdate="20170203T075417Z">
         <seg>/application
-		/Config		設定ファイルを格納します。
+		/Config         設定ファイルを格納します。
 		/Controllers		コントローラーはプログラムフローを決定します。
 		/Helpers		ヘルパーは、独立型機能のコードを保存します
 		/Language		スタンドアロン関数のコレクションを格納するここで、複数言語サポート言語の文字列を読み取ります。
@@ -848,8 +848,8 @@ Models, etc).</seg>
 assets that you add, like CSS, javascript, or
 images.</seg>
       </tuv>
-      <tuv lang="JA" changeid="NEKOGET" changedate="20170208T083205Z" creationid="NEKOGET" creationdate="20170208T083119Z">
-        <seg>これは **.htaccess** ファイル、メインとなる**index.php**、
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170208T083743Z" creationid="NEKOGET" creationdate="20170208T083119Z">
+        <seg> これは **.htaccess** ファイル、メインとなる **index.php** 、
 及びCSS, Javascriopt
 画像などの任意のファイルを含みます。</seg>
       </tuv>

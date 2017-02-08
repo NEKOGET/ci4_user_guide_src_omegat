@@ -1344,6 +1344,16 @@ any certain way.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While you have a lot of flexibility in how you
+use the application directory, the files in the system directory should never be modified.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170208T082558Z" creationid="NEKOGET" creationdate="20170208T082558Z">
+        <seg>アプリケーションディレクトリを使用する場合多くの柔軟性を持っていますが、
+システムディレクトリ内のファイルが変更されることはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You might have third-party
 classes that your project is using.</seg>
       </tuv>
@@ -1418,6 +1428,18 @@ This directory holds the CodeIgniter documentation.</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170126T121040Z" creationid="NEKOGET" creationdate="20170126T121040Z">
         <seg>注意::提示した目標完了日は推測にです。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>system
+------
+This directory stores the files that make up the framework, itself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170208T082420Z" creationid="NEKOGET" creationdate="20170208T082420Z">
+        <seg>system
+------
+このディレクトリには、フレームワークを構成するファイルを格納します。</seg>
       </tuv>
     </tu>
     <tu>

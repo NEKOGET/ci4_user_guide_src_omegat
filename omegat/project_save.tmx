@@ -468,6 +468,14 @@ considerable time.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All files in this directory live under the ``CodeIgniter`` namespace.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170208T082742Z" creationid="NEKOGET" creationdate="20170208T082742Z">
+        <seg>このディレクトリ内のすべてのファイルは ``CodeIgniter`` の名前空間を持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All of the source files exist under *source/* and is where you will add new
 documentation or modify existing documentation.</seg>
       </tuv>

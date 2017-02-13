@@ -102,6 +102,18 @@ Generating the ユーザーガイド
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>##########################
+Working With HTTP Requests
+##########################</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170213T123633Z" creationid="NEKOGET" creationdate="20170213T123633Z">
+        <seg>##########################
+HTTP リクエストを利用した作業
+##########################</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>##############################
 CodeIgniter Internals Overview
 ##############################</seg>

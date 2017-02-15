@@ -1155,8 +1155,8 @@ those classes can be found in::</seg>
         <seg>The ``user_guide`` subfolder contains a local copy of the
 User Guide, and the ``api_docs`` subfolder contains a local copy of the CodeIgniter components API reference.</seg>
       </tuv>
-      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T120726Z" creationid="NEKOGET" creationdate="20170215T120726Z">
-        <seg> ``user_guide``  フォルダにはローカルコピーが含まれています。
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T120739Z" creationid="NEKOGET" creationdate="20170215T120726Z">
+        <seg> ``user_guide``  フォルダにはローカルコピーが含まれており、
  ``api_docs`` フォルダにはCodeIgniterコンポーネントAPIリファレンスのローカルコピーが含まれています。</seg>
       </tuv>
     </tu>

@@ -1488,10 +1488,10 @@ The ``application`` directory is where all of your application code lives.</seg>
 ----
 This directory holds the CodeIgniter documentation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="NEKOGET" changedate="20170203T074616Z" creationid="NEKOGET" creationdate="20170203T074613Z">
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T120756Z" creationid="NEKOGET" creationdate="20170203T074613Z">
         <seg>docs
 ----
-このディレクトリは、CodeIgniterのドキュメントを保持しています。</seg>
+このディレクトリは、CodeIgniterのドキュメントが保存されています。</seg>
       </tuv>
     </tu>
     <tu>

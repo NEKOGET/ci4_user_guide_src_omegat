@@ -1570,6 +1570,16 @@ This directory holds the CodeIgniter documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>note:: If you rename the ``Controllers`` directory, though, you will not be able to use the automatic method of
+		routing to controllers, and will need to define all of your routes in the routes file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T122049Z" creationid="NEKOGET" creationdate="20170215T122049Z">
+        <seg>注意:: もし ``Controllers`` ディレクトリの名前を変更する場合、コントローラに自動的なルーティングを使用することができません。
+すべてのルートを定義する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>system
 ------
 This directory stores the files that make up the framework, itself.</seg>

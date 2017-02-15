@@ -1324,6 +1324,16 @@ structure that works well for many applications.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This directory does not need to be transferred to your
+production servers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T121100Z" creationid="NEKOGET" creationdate="20170215T121100Z">
+        <seg>このディレクトリは本番サーバに転送する
+必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This does not need a trailing slash.</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170126T085908Z" creationid="NEKOGET" creationdate="20170124T083147Z">

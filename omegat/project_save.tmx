@@ -483,9 +483,9 @@ considerable time.</seg>
         <seg>All files in this directory live under the ``App`` namespace, though you are free to change that in
 **application/Config/Constants.php**.</seg>
       </tuv>
-      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T122259Z" creationid="NEKOGET" creationdate="20170215T122243Z">
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T122316Z" creationid="NEKOGET" creationdate="20170215T122243Z">
         <seg>**application/Config/Constants.php** を変更することは自由ですが
-このディレクトリ内のすべてのファイルは ``App``  名前空間に含まれます。</seg>
+このディレクトリ内のすべてのファイルは ``App``  名前空間以下に含まれます。</seg>
       </tuv>
     </tu>
     <tu>

@@ -1524,6 +1524,18 @@ This directory stores the files that make up the framework, itself.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>tests
+-----
+This directory is setup to hold your test files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T120917Z" creationid="NEKOGET" creationdate="20170215T120917Z">
+        <seg>tests
+-----
+このディレクトリにはテストファイルを保存するように設定されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>very much on the quantity and quality of community contributions.</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170126T121128Z" creationid="NEKOGET" creationdate="20170126T121128Z">

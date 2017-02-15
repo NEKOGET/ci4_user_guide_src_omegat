@@ -804,6 +804,16 @@ the tools you need while staying out of the way.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case, you could rename the ``Models`` directory to
+``Repositories``, and add a new ``Entities`` directory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T121807Z" creationid="NEKOGET" creationdate="20170215T121807Z">
+        <seg>このケースでは   ``Models`` の名前を ``Repositories``  に変更し、
+新たに ``Entities`` ディレクトリを追加しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Initial configuration is done in **/application/Config/Autoload.php**.</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170124T081948Z" creationid="NEKOGET" creationdate="20170124T081948Z">

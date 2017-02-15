@@ -1142,6 +1142,16 @@ output it to various formats.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ``_support`` directory holds various mock classes and other
+utilities that you can use while writing your tests.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T121038Z" creationid="NEKOGET" creationdate="20170215T121038Z">
+        <seg>``_support`` ディレクトリにはテストを書くときに使用するモッククラス
+やユーティリティを保存できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ``psr4`` array in the configuration file allows you to map the namespace to the directory
 those classes can be found in::</seg>
       </tuv>

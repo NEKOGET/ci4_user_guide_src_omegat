@@ -784,6 +784,16 @@ http://python.org/download/releases/2.7.2/</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you've relocated any of the main directories, you can let the application 
+know the new location within the main ``index.php`` file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T120545Z" creationid="NEKOGET" creationdate="20170215T120545Z">
+        <seg>メインディレクトリを変更した場合、
+ ``index.php`` ファイルの中に新しい場所を指定することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In short, CodeIgniter is the malleable framework that tries to provide
 the tools you need while staying out of the way.</seg>
       </tuv>

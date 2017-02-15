@@ -1382,6 +1382,14 @@ when creating new functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This includes directories for storing cache files, logs, and any uploads a user might send.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T121222Z" creationid="NEKOGET" creationdate="20170215T121222Z">
+        <seg>これは、キャッシュファイル、ログ、およびユーザが送信する可能性のある任意のアップロードを格納するためのディレクトリが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is most important for any business-logic related classes, entity classes,
 etc.</seg>
       </tuv>
@@ -1460,6 +1468,16 @@ classes that your project is using.</seg>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170119T122916Z" creationid="NEKOGET" creationdate="20170119T122826Z">
         <seg>プロジェクトで利用されている
 サードパーティなクラスも利用しているはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should add any other
+directories that your application will need to write to here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T121256Z" creationid="NEKOGET" creationdate="20170215T121256Z">
+        <seg>アプリケーションはここに書き込む必要がある
+他のディレクトリを追加する必要があります。</seg>
       </tuv>
     </tu>
     <tu>

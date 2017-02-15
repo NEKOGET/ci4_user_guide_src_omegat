@@ -1266,6 +1266,14 @@ features that CodeIgniter users know and love.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These paths are relative to **index.php**.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T120307Z" creationid="NEKOGET" creationdate="20170215T120307Z">
+        <seg>これらのパスは **index.php** を基準にしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This also allows
 you to regenerate as necessary if you want to "preview" your work.</seg>
       </tuv>

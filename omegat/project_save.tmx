@@ -704,6 +704,16 @@ and managed independently of the main framework.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, you might decide to start using the Repository
+pattern and Entity Models to work with your data.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T121844Z" creationid="NEKOGET" creationdate="20170215T121844Z">
+        <seg>たとえば、あなたはあなたのデータを操作するために
+リポジトリパターンとエンティティモデルの使用を開始することを決定するとします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For performance improvement, the core CodeIgniter components have been added to the classmap.</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170119T124010Z" creationid="NEKOGET" creationdate="20170119T124010Z">

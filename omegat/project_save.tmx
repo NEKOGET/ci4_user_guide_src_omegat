@@ -1562,6 +1562,18 @@ This directory is setup to hold your test files.</seg>
         <seg>コミュニティの貢献の量と質から、とても大きく影響されます。</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>writable
+--------
+This directory holds any directories that might need to be written to in the course of an application's life.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T121150Z" creationid="NEKOGET" creationdate="20170215T121150Z">
+        <seg>writable
+--------
+このディレクトリはアプリケーションの中で書き込みが必要なファイルを保存することができます。</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>

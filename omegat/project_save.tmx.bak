@@ -30,6 +30,30 @@ Autoloading Files
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#####################
+Application Structure
+#####################</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170203T073441Z" creationid="NEKOGET" creationdate="20170203T073441Z">
+        <seg>#####################
+アプリケーション 構造
+#####################</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#####################
+CodeIgniter4 Overview
+#####################</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170203T073001Z" creationid="NEKOGET" creationdate="20170203T073001Z">
+        <seg>#####################
+CodeIgniter4 概要
+#####################</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>######################
 CodeIgniter User Guide
 ######################</seg>
@@ -74,6 +98,18 @@ Generating the User Guide
         <seg>#########################
 Generating the ユーザーガイド
 #########################</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>##########################
+Working With HTTP Requests
+##########################</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170213T123633Z" creationid="NEKOGET" creationdate="20170213T123633Z">
+        <seg>##########################
+HTTP リクエストを利用した作業
+##########################</seg>
       </tuv>
     </tu>
     <tu>
@@ -372,6 +408,34 @@ CodeIgniterへの貢献
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/Views          Views make up the HTML that is displayed to the client.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170203T080027Z" creationid="NEKOGET" creationdate="20170203T075954Z">
+        <seg>/Views          ビューは、クライアントに表示されるHTMLを生成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/application
+		/Config         Stores the configuration files
+		/Controllers    Controllers determine the program flow
+		/Helpers        Helpers store collections of standalone functions
+		/Language       Multiple language support reads the language strings from here
+		/Libraries      Useful classes that don't fit in another category
+		/Models         Models work with the database to represent the business entities.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170208T083820Z" creationid="NEKOGET" creationdate="20170203T075417Z">
+        <seg>/application
+		/Config         設定ファイルを格納します。
+		/Controllers		コントローラーはプログラムフローを決定します。
+		/Helpers		ヘルパーは、独立型機能のコードを保存します
+		/Language		スタンドアロン関数のコレクションを格納するここで、複数言語サポート言語の文字列を読み取ります。
+		/Libraries		Useful classes that don't fit in another category
+		/Models		Models work with the database to represent the business entities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>=====================
 CodeIgniter4 Roadmap
 =====================</seg>
@@ -380,6 +444,16 @@ CodeIgniter4 Roadmap
         <seg>=====================
 CodeIgniter4 ロードマップ
 =====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A fresh install has six directories: ``/application``, ``/system``, ``/public``, 
+``/writable``, ``/tests`` and ``/docs``.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170203T080635Z" creationid="NEKOGET" creationdate="20170203T074316Z">
+        <seg>新規インストールをすると6つのディレクトリができます。: ``/application``, ``/system``, ``/public``, 
+``/writable``, ``/tests`` and ``/docs``.</seg>
       </tuv>
     </tu>
     <tu>
@@ -402,6 +476,24 @@ considerable time.</seg>
         <seg>HTMLがビルドされると
 変更されたファイルのみを再構築し
 かなりの時間を節約します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All files in this directory live under the ``App`` namespace, though you are free to change that in
+**application/Config/Constants.php**.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T122316Z" creationid="NEKOGET" creationdate="20170215T122243Z">
+        <seg>**application/Config/Constants.php** を変更することは自由ですが
+このディレクトリ内のすべてのファイルは ``App``  名前空間以下に含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All files in this directory live under the ``CodeIgniter`` namespace.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170208T082742Z" creationid="NEKOGET" creationdate="20170208T082742Z">
+        <seg>このディレクトリ内のすべてのファイルは ``CodeIgniter`` の名前空間を持っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -430,6 +522,16 @@ they will show up in the changelog.</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170126T120202Z" creationid="NEKOGET" creationdate="20170126T120202Z">
         <seg>フェーズ3になった時点で、CodeIgniterはリリースすることが可能な状態です。このフェーズのコードを待つ必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because the ``application`` directory is already namespaced, you should feel free to modify the structure
+of this directory to suit your application's needs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170203T081414Z" creationid="NEKOGET" creationdate="20170203T080931Z">
+        <seg>``application`` ディレクトリはすでに名前空間の設定がされているため
+アプリケーションの必要に応じて、このディレクトリの構造は自由に変更できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -528,6 +630,16 @@ by minimizing the amount of code needed for a given task.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default Directories
+===================</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170203T073457Z" creationid="NEKOGET" creationdate="20170203T073457Z">
+        <seg>デフォルトディレクトリ
+===================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dependencies
 ============</seg>
       </tuv>
@@ -566,6 +678,14 @@ githubのissueに対してのPRを求めています。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each of these directories has a very specific part to play.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170203T080703Z" creationid="NEKOGET" creationdate="20170203T080703Z">
+        <seg>これらのディレクトリはそれぞれ役割を持っています。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each optional package will have its own repository, and will be developed
 and managed independently of the main framework.</seg>
       </tuv>
@@ -590,6 +710,16 @@ and managed independently of the main framework.</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170119T120407Z" creationid="NEKOGET" creationdate="20170119T120407Z">
         <seg>すべてのアプリケーションは、さまざまな場所にたくさんのクラスで構成されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, you might decide to start using the Repository
+pattern and Entity Models to work with your data.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T121844Z" creationid="NEKOGET" creationdate="20170215T121844Z">
+        <seg>たとえば、あなたはあなたのデータを操作するために
+リポジトリパターンとエンティティモデルの使用を開始することを決定するとします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -674,12 +804,32 @@ http://python.org/download/releases/2.7.2/</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you've relocated any of the main directories, you can let the application 
+know the new location within the main ``index.php`` file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T120545Z" creationid="NEKOGET" creationdate="20170215T120545Z">
+        <seg>メインディレクトリを変更した場合、
+ ``index.php`` ファイルの中に新しい場所を指定することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In short, CodeIgniter is the malleable framework that tries to provide
 the tools you need while staying out of the way.</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170119T114400Z" creationid="NEKOGET" creationdate="20170119T114006Z">
         <seg>つまりCodeIgniterは
 あなたに必要なツールを提供する邪魔にならないフレームなのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case, you could rename the ``Models`` directory to
+``Repositories``, and add a new ``Entities`` directory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T121917Z" creationid="NEKOGET" creationdate="20170215T121807Z">
+        <seg>その場合  ``Models`` の名前を ``Repositories``  に変更し、
+新たに ``Entities`` ディレクトリを追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -746,6 +896,18 @@ Models, etc).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It contains the main **.htaccess** file, **index.php**, and any application 
+assets that you add, like CSS, javascript, or
+images.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170208T083743Z" creationid="NEKOGET" creationdate="20170208T083119Z">
+        <seg> これは **.htaccess** ファイル、メインとなる **index.php** 、
+及びCSS, Javascriopt
+画像などの任意のファイルを含みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It should load up and tell you which version you have
 installed.</seg>
       </tuv>
@@ -802,6 +964,16 @@ headache and very error-prone.</seg>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170124T082242Z" creationid="NEKOGET" creationdate="20170124T082242Z">
         <seg>レガシーサポート
 ==============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modifying Directory Locations
+-----------------------------</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170203T074725Z" creationid="NEKOGET" creationdate="20170203T074637Z">
+        <seg> ディレクトリの場所の変更
+-----------------------------</seg>
       </tuv>
     </tu>
     <tu>
@@ -980,6 +1152,16 @@ without any parameters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The **public** folder holds the browser-acceible portion of your web application,
+preventing direct access to your source code.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170208T083013Z" creationid="NEKOGET" creationdate="20170208T083013Z">
+        <seg>**public** フォルダは、ソースコードへの直接アクセスを防止し
+ブラウザからアクセス可能なものを格納します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The CodeIgniter user guide uses Sphinx to manage the documentation and
 output it to various formats.</seg>
       </tuv>
@@ -990,12 +1172,32 @@ output it to various formats.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ``_support`` directory holds various mock classes and other
+utilities that you can use while writing your tests.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T121038Z" creationid="NEKOGET" creationdate="20170215T121038Z">
+        <seg>``_support`` ディレクトリにはテストを書くときに使用するモッククラス
+やユーティリティを保存できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ``psr4`` array in the configuration file allows you to map the namespace to the directory
 those classes can be found in::</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170124T083020Z" creationid="NEKOGET" creationdate="20170124T083020Z">
         <seg>設定ファイルの中の ``psr4`` 配列を利用すると、それらのクラスを見つけることができるディレクトリに対して
 名前空間をマッピングすることができます::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ``user_guide`` subfolder contains a local copy of the
+User Guide, and the ``api_docs`` subfolder contains a local copy of the CodeIgniter components API reference.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T120739Z" creationid="NEKOGET" creationdate="20170215T120726Z">
+        <seg> ``user_guide``  フォルダにはローカルコピーが含まれており、
+ ``api_docs`` フォルダにはCodeIgniterコンポーネントAPIリファレンスのローカルコピーが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1024,6 +1226,22 @@ beginning of the framework's execution.</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170126T114455Z" creationid="NEKOGET" creationdate="20170126T114455Z">
         <seg>最初のフェーズではフレームワークの本質に対して集中しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following folders make up the basic contents::</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170203T075219Z" creationid="NEKOGET" creationdate="20170203T075219Z">
+        <seg>次のフォルダは、基本的な内容を作ります:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following pages describe the architectural concepts behind CodeIgniter4:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170203T073128Z" creationid="NEKOGET" creationdate="20170203T073128Z">
+        <seg>次のページではCodeIgniter4の背景になる構造上の概念について説明します。:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1108,12 +1326,40 @@ features that CodeIgniter users know and love.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These paths are relative to **index.php**.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T120307Z" creationid="NEKOGET" creationdate="20170215T120307Z">
+        <seg>これらのパスは **index.php** を基準にしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This also allows
 you to regenerate as necessary if you want to "preview" your work.</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170104T072832Z" creationid="NEKOGET" creationdate="20170104T071514Z">
         <seg>そのため
 それらを表示をしたい場合にはソースコードからビルドします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This comes with a default directory
+structure that works well for many applications.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170203T075043Z" creationid="NEKOGET" creationdate="20170203T075043Z">
+        <seg>デェフォルトのディレクトリ構造は
+多くのアプリケーションに適しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This directory does not need to be transferred to your
+production servers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T121100Z" creationid="NEKOGET" creationdate="20170215T121100Z">
+        <seg>このディレクトリは本番サーバに転送する
+必要はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1146,12 +1392,30 @@ arrays: one for the classmap, and one for PSR4-compatible namespaces.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This folder is meant to be the "web root" of your site, and your web server
+would be configured to point to it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170208T083322Z" creationid="NEKOGET" creationdate="20170208T083322Z">
+        <seg>このフォルダはサイトの "web ルート" であることを意味し、
+Webサーバをそうなるように設定することになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This guide should help contributors understand how the core of the framework works, and what needs to be done
 when creating new functionality.</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170126T122243Z" creationid="NEKOGET" creationdate="20170126T122243Z">
         <seg>このガイドでは、フレームワークのコアがどのように機能するか。
 新しい機能を作成する際に何が必要なのかを理解するのに役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This includes directories for storing cache files, logs, and any uploads a user might send.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T121222Z" creationid="NEKOGET" creationdate="20170215T121222Z">
+        <seg>これは、キャッシュファイル、ログ、およびユーザが送信する可能性のある任意のアップロードを格納するためのディレクトリが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1172,6 +1436,16 @@ community to help.</seg>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170126T114951Z" creationid="NEKOGET" creationdate="20170126T114951Z">
         <seg>このフェーズが完了し、レポジトリーは
 コミュニティのために公開されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To get the most out of CodeIgniter, you need to understand how the application is structured, by default, and what you
+can change to meet the needs of your application.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170203T074102Z" creationid="NEKOGET" creationdate="20170203T074102Z">
+        <seg>CodeIgniterを最大限に利用するために, 
+アプリケーションの構造とデフォルト、そして変更できることについて理解する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1208,12 +1482,32 @@ any certain way.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While you have a lot of flexibility in how you
+use the application directory, the files in the system directory should never be modified.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170208T082628Z" creationid="NEKOGET" creationdate="20170208T082558Z">
+        <seg>アプリケーションディレクトリを使用する場合多くの柔軟性を持っていますが、
+システムディレクトリ内のファイルを変更することはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You might have third-party
 classes that your project is using.</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170119T122916Z" creationid="NEKOGET" creationdate="20170119T122826Z">
         <seg>プロジェクトで利用されている
 サードパーティなクラスも利用しているはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should add any other
+directories that your application will need to write to here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T121256Z" creationid="NEKOGET" creationdate="20170215T121256Z">
+        <seg>アプリケーションはここに書き込む必要がある
+他のディレクトリを追加する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1246,6 +1540,30 @@ number of libraries, models, and other entities to make it work.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>application
+-----------
+The ``application`` directory is where all of your application code lives.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170203T074738Z" creationid="NEKOGET" creationdate="20170203T074339Z">
+        <seg>application
+-----------
+``application`` のディレクトリはアプリケーションのすべてのコードが存在します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>docs
+----
+This directory holds the CodeIgniter documentation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T120756Z" creationid="NEKOGET" creationdate="20170203T074613Z">
+        <seg>docs
+----
+このディレクトリは、CodeIgniterのドキュメントが保存されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>during shipping.</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170126T121707Z" creationid="NEKOGET" creationdate="20170126T121448Z">
@@ -1262,10 +1580,56 @@ number of libraries, models, and other entities to make it work.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>note:: If you rename the ``Controllers`` directory, though, you will not be able to use the automatic method of
+		routing to controllers, and will need to define all of your routes in the routes file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T122049Z" creationid="NEKOGET" creationdate="20170215T122049Z">
+        <seg>注意:: もし ``Controllers`` ディレクトリの名前を変更する場合、コントローラに自動的なルーティングを使用することができません。
+すべてのルートを定義する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>system
+------
+This directory stores the files that make up the framework, itself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170208T082420Z" creationid="NEKOGET" creationdate="20170208T082420Z">
+        <seg>system
+------
+このディレクトリには、フレームワークを構成するファイルを格納します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tests
+-----
+This directory is setup to hold your test files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T120917Z" creationid="NEKOGET" creationdate="20170215T120917Z">
+        <seg>tests
+-----
+このディレクトリにはテストファイルを保存するように設定されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>very much on the quantity and quality of community contributions.</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170126T121128Z" creationid="NEKOGET" creationdate="20170126T121128Z">
         <seg>コミュニティの貢献の量と質から、とても大きく影響されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>writable
+--------
+This directory holds any directories that might need to be written to in the course of an application's life.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T121202Z" creationid="NEKOGET" creationdate="20170215T121150Z">
+        <seg>writable
+--------
+このディレクトリはアプリケーションの中で書き込みが必要なファイルを保存しておくことができます。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

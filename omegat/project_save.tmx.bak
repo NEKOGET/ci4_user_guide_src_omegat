@@ -1128,6 +1128,16 @@ without any parameters.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting around line 50, you will find three variables that hold the location to the **application**,
+**system**, and **writable** directories.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170223T074204Z" creationid="NEKOGET" creationdate="20170223T074204Z">
+        <seg>50行めあたりから、  **application** 、
+**system**　、 **writable** ディレクトリの場所を保存する変数があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Target completion: April 2017</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170126T120826Z" creationid="NEKOGET" creationdate="20170126T120826Z">
@@ -1328,8 +1338,8 @@ features that CodeIgniter users know and love.</seg>
       <tuv lang="EN-US">
         <seg>These paths are relative to **index.php**.</seg>
       </tuv>
-      <tuv lang="JA" changeid="NEKOGET" changedate="20170215T120307Z" creationid="NEKOGET" creationdate="20170215T120307Z">
-        <seg>これらのパスは **index.php** を基準にしています。</seg>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170223T074220Z" creationid="NEKOGET" creationdate="20170215T120307Z">
+        <seg>それらのパスは **index.php** を基準にしています。</seg>
       </tuv>
     </tu>
     <tu>

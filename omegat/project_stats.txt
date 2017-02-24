@@ -1,11 +1,11 @@
-17/02/23 16:42
+17/02/23 17:00
 プロジェクトの翻訳状況
 
             	 分節数	  単語数	文字数（空白を除く）	文字数（空白を含む）	ファイル数	
 合計：         	8347	82675	    499398	    569490	   99	
-未翻訳：        	8305	82105	    495808	    565355	   99	
+未翻訳：        	8291	81925	    494654	    564043	   99	
 繰り返しを除いた：   	6984	80275	    481164	    549590	   99	
-繰り返しを除いた未翻訳：	6944	79707	    477628	    545509	   99	
+繰り返しを除いた未翻訳：	6930	79527	    476474	    544197	   99	
 
 
 ファイルごとの翻訳状況：
@@ -21,7 +21,7 @@ user_guide_src/source/concepts/mvc.rst                 	     45	    45	         
 user_guide_src/source/concepts/security.rst            	     72	    72	         50	            50	    787	   787	        700	           700	          6213	         6213	              5176	                 5176	          6934	         6934	              5831	                 5831	
 user_guide_src/source/concepts/services.rst            	     77	    77	         71	            71	    801	   801	        801	           801	          4581	         4581	              4574	                 4574	          5265	         5265	              5258	                 5258	
 user_guide_src/source/concepts/structure.rst           	     37	     4	         36	             3	    577	    31	        577	            31	          3364	          186	              3362	                  184	          3920	          212	              3918	                  210	
-user_guide_src/source/contributing/documentation.rst   	     47	    47	         40	            40	    314	   314	        307	           307	          2204	         2204	              2145	                 2145	          2458	         2458	              2396	                 2396	
+user_guide_src/source/contributing/documentation.rst   	     47	    33	         40	            26	    314	   134	        307	           127	          2204	         1050	              2145	                  991	          2458	         1146	              2396	                 1084	
 user_guide_src/source/contributing/guidelines.rst      	     41	    40	         41	            40	    536	   535	        536	           535	          3229	         3202	              3229	                 3202	          3674	         3647	              3674	                 3647	
 user_guide_src/source/contributing/index.rst           	     43	    43	         42	            42	    446	   446	        446	           446	          2449	         2449	              2447	                 2447	          2835	         2835	              2833	                 2833	
 user_guide_src/source/contributing/internals.rst       	     59	    59	         58	            58	    762	   762	        761	           761	          4281	         4281	              4265	                 4265	          4907	         4907	              4891	                 4891	

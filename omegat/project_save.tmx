@@ -126,6 +126,18 @@ CodeIgniter 内部の概要
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#################################
+Writing CodeIgniter Documentation
+#################################</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170302T004215Z" creationid="NEKOGET" creationdate="20170302T004215Z">
+        <seg>#################################
+CodeIgniter のドキュメントを書くということ
+#################################</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*******
 Welcome
 *******</seg>

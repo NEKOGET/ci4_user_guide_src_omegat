@@ -30,6 +30,18 @@ Autoloading Files
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#################
+Create news items
+#################</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170303T135537Z" creationid="NEKOGET" creationdate="20170303T135537Z">
+        <seg>#################
+news items の作成
+#################</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#####################
 Application Structure
 #####################</seg>
@@ -1520,6 +1532,16 @@ classes that your project is using.</seg>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170119T122916Z" creationid="NEKOGET" creationdate="20170119T122826Z">
         <seg>プロジェクトで利用されている
 サードパーティなクラスも利用しているはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You now know how you can read data from a database using CodeIgniter, but
+you haven't written any information to the database yet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170303T135629Z" creationid="NEKOGET" creationdate="20170303T135629Z">
+        <seg>CodeIgniterを利用してデータベースからデータを読み取ることができました。
+しかし書き込むことはこれからです。</seg>
       </tuv>
     </tu>
     <tu>

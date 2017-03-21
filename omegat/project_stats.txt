@@ -1,11 +1,11 @@
-17/03/03 22:50
+17/03/21 22:17
 プロジェクトの翻訳状況
 
             	 分節数	  単語数	文字数（空白を除く）	文字数（空白を含む）	ファイル数	
-合計：         	8337	82636	    498376	    568028	   99	
-未翻訳：        	8328	82600	    497872	    567498	   99	
-繰り返しを除いた：   	6974	80236	    480142	    548128	   99	
-繰り返しを除いた未翻訳：	6967	80202	    479692	    547652	   99	
+合計：         	8326	82598	    497708	    567126	   99	
+未翻訳：        	8317	82559	    497268	    566657	   99	
+繰り返しを除いた：   	6963	80198	    479474	    547226	   99	
+繰り返しを除いた未翻訳：	6956	80161	    479088	    546811	   99	
 
 
 ファイルごとの翻訳状況：
@@ -20,8 +20,8 @@ user_guide_src/source/concepts/index.rst               	      5	     5	         
 user_guide_src/source/concepts/mvc.rst                 	     45	    45	         45	            45	    793	   793	        793	           793	          3872	         3872	              3872	                 3872	          4486	         4486	              4486	                 4486	
 user_guide_src/source/concepts/security.rst            	     72	    72	         50	            50	    787	   787	        700	           700	          6213	         6213	              5176	                 5176	          6934	         6934	              5831	                 5831	
 user_guide_src/source/concepts/services.rst            	     77	    77	         71	            71	    801	   801	        801	           801	          4581	         4581	              4574	                 4574	          5265	         5265	              5258	                 5258	
-user_guide_src/source/concepts/structure.rst           	     27	    26	         26	            25	    533	   513	        533	           513	          2374	         2249	              2372	                 2247	          2498	         2355	              2496	                 2353	
-user_guide_src/source/contributing/documentation.rst   	     47	    46	         40	            39	    314	   311	        307	           304	          2204	         2105	              2145	                 2046	          2458	         2357	              2396	                 2295	
+user_guide_src/source/concepts/structure.rst           	     26	    26	         25	            25	    527	   527	        527	           527	          2321	         2321	              2319	                 2319	          2433	         2433	              2431	                 2431	
+user_guide_src/source/contributing/documentation.rst   	     41	    41	         34	            34	    292	   292	        285	           285	          1876	         1876	              1817	                 1817	          2006	         2006	              1944	                 1944	
 user_guide_src/source/contributing/guidelines.rst      	     41	    40	         41	            40	    536	   535	        536	           535	          3229	         3202	              3229	                 3202	          3674	         3647	              3674	                 3647	
 user_guide_src/source/contributing/index.rst           	     43	    43	         42	            42	    446	   446	        446	           446	          2449	         2449	              2447	                 2447	          2835	         2835	              2833	                 2833	
 user_guide_src/source/contributing/internals.rst       	     59	    59	         58	            58	    762	   762	        761	           761	          4281	         4281	              4265	                 4265	          4907	         4907	              4891	                 4891	
@@ -106,7 +106,7 @@ user_guide_src/source/license.rst                      	      6	     6	         
 user_guide_src/source/test/cli.rst                     	     78	    78	         58	            58	    522	   522	        493	           493	          2979	         2979	              2763	                 2763	          3461	         3461	              3221	                 3221	
 user_guide_src/source/test/incoming_request.rst        	    146	   146	         98	            98	    779	   779	        703	           703	          5021	         5021	              4409	                 4409	          5763	         5763	              5093	                 5093	
 user_guide_src/source/tutorial/conclusion.rst          	     10	    10	         10	            10	    159	   159	        159	           159	           937	          937	               937	                  937	          1070	         1070	              1070	                 1070	
-user_guide_src/source/tutorial/create_news_items.rst   	     98	    98	         81	            81	    841	   841	        838	           838	          4716	         4716	              4679	                 4679	          5370	         5370	              5333	                 5333	
-user_guide_src/source/tutorial/index.rst               	     25	    25	         23	            23	    216	   216	        213	           213	          1316	         1316	              1281	                 1281	          1508	         1508	              1473	                 1473	
+user_guide_src/source/tutorial/create_news_items.rst   	     98	    96	         81	            79	    841	   815	        838	           812	          4716	         4556	              4679	                 4519	          5370	         5187	              5333	                 5150	
+user_guide_src/source/tutorial/index.rst               	     21	    21	         19	            19	    206	   206	        203	           203	          1029	         1029	               994	                  994	          1123	         1123	              1088	                 1088	
 user_guide_src/source/tutorial/news_section.rst        	    101	   101	         88	            88	   1163	  1163	       1155	          1155	          6502	         6502	              6433	                 6433	          7448	         7448	              7372	                 7372	
 user_guide_src/source/tutorial/static_pages.rst        	     82	    82	         76	            76	    950	   950	        949	           949	          5301	         5301	              5276	                 5276	          6058	         6058	              6033	                 6033	

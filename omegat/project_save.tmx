@@ -1116,6 +1116,16 @@ source/documentation/index.rst を参照してください。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Re-generating the User Guide
+============================</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170424T150239Z" creationid="NEKOGET" creationdate="20170424T150239Z">
+        <seg>ユーザーガイドを再生成する
+============================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Release Date: Not Released</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170119T115904Z" creationid="NEKOGET" creationdate="20170119T115904Z">
@@ -1128,6 +1138,16 @@ source/documentation/index.rst を参照してください。</seg>
       </tuv>
       <tuv lang="JA" changeid="NEKOGET" changedate="20170126T121148Z" creationid="NEKOGET" creationdate="20170126T121148Z">
         <seg>描いているような結果が出ないかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setup for Repo Maintainers
+==========================</seg>
+      </tuv>
+      <tuv lang="JA" changeid="NEKOGET" changedate="20170424T150222Z" creationid="NEKOGET" creationdate="20170424T150222Z">
+        <seg>セットアップ手順
+==========================</seg>
       </tuv>
     </tu>
     <tu>
